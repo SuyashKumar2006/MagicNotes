@@ -1,0 +1,15 @@
+html {
+    scroll-behavior: smooth;
+}
+
+
+/* scrollToTop button css */
+
+#scrollToTop img {
+    width: 100px;
+    position: fixed;
+    z-index: 3;
+    bottom: 25px;
+    right: 15px;
+    width: 60px;
+}
